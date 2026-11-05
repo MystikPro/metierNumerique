@@ -1,7 +1,6 @@
 ````mermaid
 mindmap
-  root((EMPLOI INFORMATIQUE))
-    IA et services intelligents
+  root((EMPLOI INFORMATIQUE IA ))
       Utilisation professionnelle de l'IA
         Assistant IA professionnel
         Opérateur IA
